@@ -1,6 +1,6 @@
 __author__ = 'phiosly'
 import math
-from common.variable import GetVariable as common
+from Common.variable import GetVariable as common
 def phone_avg_use_cpu(cpu):
     print("phone_avg_use_cpu1")
     print(cpu)

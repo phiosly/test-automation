@@ -5,7 +5,7 @@ import re
 import math
 from math import ceil
 import subprocess
-from common.variable import GetVariable as common
+from Common.variable import GetVariable as common
 # 得到手机信息
 def get_phone_info(devices):
     cmd = "adb -s "+ devices +" shell cat /system/build.prop "

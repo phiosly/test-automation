@@ -1,8 +1,8 @@
 __author__ = "phiosly"
 import pickle
 import os
-from common import operateFile
-from common.variable import GetVariable
+from Common import OperateFile
+from Common.variable import GetVariable
 
 def write_pickle(dict_data, path="data.pickle"):
     read = read_pickle(path)

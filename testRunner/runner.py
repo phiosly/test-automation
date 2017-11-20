@@ -6,7 +6,7 @@ import datetime
 import xlsxwriter
 import time
 import unittest
-from common import reportPhone
+from Common import reportPhone
 from testRunner.runnerBase import TestInterfaceCase
 # from testCase.login import testLogin
 # from testCase.work import testContact
@@ -18,15 +18,15 @@ from testBLL import adbCommon
 from testMode import email as memail
 from testBLL import report as b_report
 from testBLL import phoneBase
-from common.variable import GetVariable as common
-from common import dataToString
+from Common.variable import GetVariable as common
+from Common import dataToString
 import os
 from testBLL import apkBase
 from multiprocessing import Pool
-from common import operateFile
-from common import operateYaml
+from Common import OperateFile
+from Common import operateYaml
 from http.server import HTTPServer
-from common import myserver
+from Common import myserver
 from multiprocessing import Process
 import subprocess
 PATH = lambda p: os.path.abspath(

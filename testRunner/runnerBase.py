@@ -2,7 +2,7 @@ __author__ = 'phiosly'
 # -*- coding: utf-8 -*-
 import unittest
 from appium import webdriver
-from common.variable import GetVariable as common
+from Common.variable import GetVariable as common
 import os
 from selenium import webdriver as web
 from seleniumrequests import Chrome

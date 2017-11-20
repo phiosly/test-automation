@@ -1,8 +1,8 @@
 from http.server import BaseHTTPRequestHandler,HTTPServer
-from common.variable import GetVariable as gv
+from Common.variable import GetVariable as gv
 from multiprocessing import Process
 import subprocess
-from common import basePickle
+from Common import basePickle
 
 pid = 0
 class myHandler(BaseHTTPRequestHandler):

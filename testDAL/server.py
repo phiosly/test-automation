@@ -3,7 +3,7 @@ import os
 import urllib.request
 from urllib.error import URLError
 from multiprocessing import Process
-from common.variable import GetVariable as common
+from Common.variable import GetVariable as common
 PATH = lambda p: os.path.abspath(
     os.path.join(os.path.dirname(__file__), p)
 )

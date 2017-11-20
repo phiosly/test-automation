@@ -2,9 +2,9 @@ __author__ = 'phiosly'
 # -*- coding: utf-8 -*-
 from selenium.webdriver.support.ui import WebDriverWait
 import selenium.common.exceptions
-from common.variable import GetVariable as common
+from Common.variable import GetVariable as common
 import time
-from common import errorLog1
+from Common import errorLog1
 
 # 此脚本主要用于查找元素是否存在，操作页面元素
 class OperateElement():

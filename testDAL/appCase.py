@@ -2,16 +2,16 @@ __author__ = 'phiosly'
 # -*- coding: utf-8 -*-
 import json
 
-from common import operateYaml, appPerformance as ap, operateElement as bo
-from common.variable import GetVariable as common
-from common import testLog
-from common import testLogScreen
-from common import reportPhone as rp
+from Common import operateYaml, appPerformance as ap, operateElement as bo
+from Common.variable import GetVariable as common
+from Common import testLog
+from Common import testLogScreen
+from Common import reportPhone as rp
 from testBLL import phoneBase as ba
 import os
-from common import  operateFile
-from common import basePickle
-from common import baseRandom
+from Common import OperateFile
+from Common import basePickle
+from Common import baseRandom
 PATH = lambda p: os.path.abspath(
     os.path.join(os.path.dirname(__file__), p)
 )
