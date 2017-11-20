@@ -2,17 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fca86935-446f-467f-9565-83917c7b945a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/testDAL/appCase.py" afterPath="$PROJECT_DIR$/testDAL/appCase.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Common/basePickle.py" afterPath="$PROJECT_DIR$/Common/basePickle.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/testDAL/email.py" afterPath="$PROJECT_DIR$/testDAL/email.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Common/myserver.py" afterPath="$PROJECT_DIR$/Common/myserver.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Common/operateElement.py" afterPath="$PROJECT_DIR$/Common/operateElement.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/testDAL/phoneBase.py" afterPath="$PROJECT_DIR$/testDAL/phoneBase.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/testDAL/report.py" afterPath="$PROJECT_DIR$/testDAL/report.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Common/reportPhone.py" afterPath="$PROJECT_DIR$/Common/reportPhone.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/testRunner/runner.py" afterPath="$PROJECT_DIR$/testRunner/runner.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/testRunner/runnerBase.py" afterPath="$PROJECT_DIR$/testRunner/runnerBase.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/testDAL/server.py" afterPath="$PROJECT_DIR$/testDAL/server.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Golden_hub.iws" />
@@ -155,6 +144,11 @@
     </leaf>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="phiosly &lt;phiosly@sina.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -524,7 +518,13 @@
       <option name="project" value="LOCAL" />
       <updated>1511168667701</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="update according to correct errors">
+      <created>1511172370425</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1511172370425</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -566,7 +566,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update according to dryrun case" />
-    <option name="LAST_COMMIT_MESSAGE" value="update according to dryrun case" />
+    <MESSAGE value="update according to correct errors" />
+    <option name="LAST_COMMIT_MESSAGE" value="update according to correct errors" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
