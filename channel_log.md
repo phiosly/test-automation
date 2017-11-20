@@ -280,3 +280,5 @@ java.lang.NullPointerException
 * 测试闪退，case失败过程的新增截图
 ![testReport12-5.png](img/testReport12-5.png "testReport12-5.png")
 
+2017/11/20 
+fork from originator, just do dryrun
